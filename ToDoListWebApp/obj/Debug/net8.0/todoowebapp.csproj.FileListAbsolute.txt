@@ -1,0 +1,8 @@
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.AssemblyInfoInputs.cache
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.AssemblyInfo.cs
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.csproj.CoreCompileInputs.cache
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.MvcApplicationPartsAssemblyInfo.cache
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.RazorAssemblyInfo.cache
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.RazorAssemblyInfo.cs
+/Users/veronica/Desktop/todooapp/ToDoListWebApp/obj/Debug/net8.0/todoowebapp.csproj.AssemblyReference.cache
