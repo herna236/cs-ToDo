@@ -3,6 +3,8 @@ using ToDoListWebApp.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 
@@ -12,7 +14,7 @@ builder.Services.AddDbContext<ToDoContext>(options =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
@@ -29,5 +31,7 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 app.Urls.Add($"http://0.0.0.0:{port}");
+
+
+app.Run();
